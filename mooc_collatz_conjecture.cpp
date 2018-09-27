@@ -1,4 +1,6 @@
-/* This is only a temporary file and not one of the algorithm solutions.
+/**
+ * author: marcavenzaid
+ * date created: September 28, 2018
  */
 
 #include <bits/stdc++.h>
